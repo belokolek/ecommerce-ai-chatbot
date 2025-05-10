@@ -1,4 +1,4 @@
-# Ecommerce ChatBot
+# Ecommerce AI ChatBot
 
 ## About The Project
 
@@ -23,14 +23,6 @@ This AI-powered chatbot enhances the shopping experience by offering personalize
 - **LangChain-HuggingFace** – Provides embeddings
 - **Flask** – Deploys the chatbot as
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
 ### Getting Started
 
 To get started with this project locally, you’ll need Python 3.10+ installed on your machine along with the necessary Python packages. You can either clone the repository and install dependencies manually or use Docker for an isolated environment.
@@ -44,7 +36,7 @@ To get started with this project locally, you’ll need Python 3.10+ installed o
     - Run the following command to clone the GitHub repository:
 
     ```bash
-    git clone https://github.com/shubhamprajapati7748/ecommerce-chatbot.git
+    git clone https://github.com/belokolek/ecommerce-ai-chatbot.git
     ```
 
 2.  **Create a Virtual Environment (Optional)**:
@@ -101,14 +93,6 @@ Contributions to the Google Gemini-Pro Chat Application are welcome! If you have
 3.  Commit your changes (`git commit -m 'Add some feature'`).
 4.  Push to the branch (`git push origin feature/YourFeature`).
 5.  Open a pull request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## Contact
-
-- Shubham Prajapati - [shubhamprajapati7748@gmail.com](mailto:shubhamprajapati7748@gmail.com)
 
 ## Acknowledgements
 
